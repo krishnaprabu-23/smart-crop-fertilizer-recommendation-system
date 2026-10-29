@@ -126,5 +126,20 @@ Double-click `setup_and_run.bat` in the project root folder. It will install all
 
 ---
 
+## Contributors
+- Gobi Krishna - Original author
+- Krishna Prabu R - Setup, testing and documentation
+
+## How to Run Locally
+1. Clone the repo:
+   git clone https://github.com/krishnaprabu-23/smart-crop-fertilizer-recommendation-system.git
+2. Create and activate a virtual environment:
+   python -m venv venv
+   venv\Scripts\activate
+3. Install dependencies:
+   pip install -r requirements.txt
+4. Run the app:
+   streamlit run main.py
+
 ## 📜 License
 This project is licensed under the MIT License.
